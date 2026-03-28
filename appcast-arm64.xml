@@ -9,8 +9,8 @@
     <language>zh-CN</language>
     <item>
       <title>v1.0.3</title>
-      <pubDate>Sat, 28 Mar 2026 07:01:17 GMT</pubDate>
-      <sparkle:version>1.0.0</sparkle:version>
+      <pubDate>Sat, 28 Mar 2026 07:15:25 GMT</pubDate>
+      <sparkle:version>1.0.3</sparkle:version>
       <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
       <description><![CDATA[<h3>v1.0.3</h3><p>Bug fixes and improvements.</p>]]></description>
