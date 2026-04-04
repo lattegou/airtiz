@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/icon.svg" alt="AirTiz" width="120" />
+  <img src="./icon.png" alt="AirTiz" width="120" />
 </p>
 
 <h1 align="center">AirTiz 小梯子</h1>
