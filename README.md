@@ -1,21 +1,17 @@
-<p align="center">
-  <img src="./icon.png" alt="AirTiz" width="120" />
-</p>
+<div align="center">
+  <img src="icon.png" alt="AirTiz Logo" width="100" />
+  
+  <h1>AirTiz 小梯子</h1>
+  
+  <p>轻巧安全的 VPN 客户端，专为 Mac 打造</p>
 
-<h1 align="center">AirTiz 小梯子</h1>
-
-<p align="center">轻巧安全的 VPN 客户端，专为 Mac 打造</p>
-
-<p align="center">
-  <a href="https://airtiz.net">🌐 官网</a> &nbsp;·&nbsp;
-  <a href="https://github.com/lattegou/airtiz/releases">⬇️ 下载</a> &nbsp;·&nbsp;
-  <a href="mailto:lattegou@gmail.com">联系我们</a>
-</p>
-
----
+  <p>
+    <a href="https://airtiz.net">🌐 访问官网</a> • 
+    <a href="https://github.com/lattegou/airtiz/releases">⬇️ 下载最新版</a>
+  </p>
+</div>
 
 ## 简介
-
 AirTiz 是一款专为 macOS 打造的轻量级 VPN 客户端，基于苹果原生 **SwiftUI** 与高性能内核 **mihomo** 构建。托盘优先的交互设计让高频操作一触即达，菜单栏实时网速一目了然——轻量与颜值并重，效率与体验兼顾。
 
 ## 特性
