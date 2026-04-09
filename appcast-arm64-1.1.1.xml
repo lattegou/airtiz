@@ -9,16 +9,16 @@
     <language>zh-CN</language>
     <item>
       <title>v1.1.1</title>
-      <pubDate>Sat, 04 Apr 2026 15:54:36 GMT</pubDate>
+      <pubDate>Thu, 09 Apr 2026 15:17:50 GMT</pubDate>
       <sparkle:version>1.1.1</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<h3>v1.1.1</h3><p>Bug fixes and improvements.</p>]]></description>
       <enclosure
         url="https://github.com/lattegou/airtiz/releases/download/v1.1.1/airtiz-macos-1.1.1-arm64.dmg"
-        length="42219063"
+        length="42292056"
         type="application/x-apple-diskimage"
-        sparkle:edSignature="lMhLF2IMaMGIjJ+3EvADKeFDI8+KhsFl6CpptrJKLwGiDsRzl1jVTFdzBiylsfhfd5rhHyyqMHBbdHVjVXMUCw=="
+        sparkle:edSignature="AiWLymqJF39oXvEdG2uM19+eMcybotMktuCwkFUFL7jsssJ2y5i14RradF9hGbbpxouG1/WDq5cQltxXRa9cAA=="
       />
     </item>
   </channel>
