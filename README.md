@@ -1,17 +1,32 @@
 <div align="center">
-  <img src="icon.png" alt="AirTiz Logo" width="100" />
+  <img src="./image/icon.png" alt="AirTiz Logo" width="100" />
   
   <h1>AirTiz 小梯子</h1>
   
   <p>轻巧安全的 VPN 客户端，专为 Mac 打造</p>
-
+  <img alt="Architecture" src="https://img.shields.io/badge/arch-Apple%20Silicon-111111?style=flat-square&logo=apple" />
+  <img alt="Platform" src="https://img.shields.io/badge/macOS-13%2B-111111?style=flat-square&logo=apple" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-6.2-F05138?style=flat-square&logo=swift" />
+  <a href="https://github.com/lattegou/airtiz/releases" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/lattegou/airtiz?style=flat-square&logo=github">
+  </a>
+   <a href="https://github.com/lattegou/airtiz/stargazers" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lattegou/airtiz?style=flat-square&logo=github">
+  </a>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/lattegou/airtiz?style=flat-square&logo=github" />
+  <img alt="AdGuard DNS" src="https://img.shields.io/badge/Secure-light-68BC71?style=flat-square&logo=adguard" />
   <p>
     <a href="https://airtiz.net">🌐 访问官网</a> • 
     <a href="https://github.com/lattegou/airtiz/releases">⬇️ 下载最新版</a>
   </p>
 </div>
 
+<img src="./image/window1.png" alt="AirTiz Logo" width="100" />
+<img src="./image/window2.png" alt="AirTiz Logo" width="100" />
+<img src="./image/menubar.png" alt="AirTiz Logo" width="100" />
+
 ## 简介
+
 AirTiz 是一款专为 macOS 打造的轻量级 VPN 客户端，基于苹果原生 **SwiftUI** 与高性能内核 **mihomo** 构建。托盘优先的交互设计让高频操作一触即达，菜单栏实时网速一目了然——轻量与颜值并重，效率与体验兼顾。
 
 ## 特性
